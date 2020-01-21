@@ -2,6 +2,20 @@ vi one.sh   two.sh
 java        ansible
 git add .
 git  commit  -m  "1 st"
+----------------------------------------------------
+working directory   ----   staging area   ----    repository
+
+vi one.sh   two.sh
+java        ansible
+spring      docker
+ 
+git  checkout .
+
+vi one.sh   two.sh
+java        ansible
+
+--------------------------------------------------
+
 
 
 
