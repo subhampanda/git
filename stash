@@ -1,0 +1,13 @@
+vi subham.sh
+subham is  good  boy
+git  add .
+git  commit  -m "1  st  commit "
+vi subham.sh
+subham is  good  boy   change  in  text 
+
+
+
+git stash  [ stash  apply]
+git  stash  list  [check the  stash  list  ]
+git  stash apply  stash@{1}
+
