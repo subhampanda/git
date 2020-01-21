@@ -6,6 +6,8 @@ git  commit  -m  "1 st"
 working directory   ----   staging area   ----    repository
 when  change  in  working directory then it  will change  by checkout   
 
+working directory ---  change ----  working directory
+
 vi one.sh   two.sh
 java        ansible
 spring      docker
@@ -16,6 +18,7 @@ vi one.sh   two.sh
 java        ansible
 
 --------------------------------------------------
+
 
 
 
