@@ -18,7 +18,21 @@ vi one.sh   two.sh
 java        ansible
 
 --------------------------------------------------
+working  directory ---  change ----  staging  area -- command  ---  staging  area   
 
+vi one.sh   two.sh
+java        ansible
+docker 
+
+git  add .
+
+git   
+------------------------------------------------------------------------
+ w.d  ...  s.a ...  remote     [after  commit ]
+ 
+ git    revert   comit_id   [after  commit id]
+ it again  come to    working  directory
+ 
 
 
 
