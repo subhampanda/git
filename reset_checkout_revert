@@ -4,6 +4,7 @@ git add .
 git  commit  -m  "1 st"
 ----------------------------------------------------
 working directory   ----   staging area   ----    repository
+when  change  in  working directory then it  will change  by checkout   
 
 vi one.sh   two.sh
 java        ansible
