@@ -12,3 +12,20 @@ git  add .
 git  commit -m "  2  nd  commit"
 git  stash apply  stash@{1}
 
+
+conflict file
+----------------------
+<<<<<<< Updated upstream
+subham is  good  boy   change  in  subham file 
+=======
+subham is  good  boy   change  in  text
+>>>>>>> Stashed changes
+-----------------------
+
+vi  subham.sh
+subham is  good  boy   change  in  subham file  [clear the  conflict]
+
+git   add .
+git  commit -m "this  is final"
+
+
