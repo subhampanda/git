@@ -1,4 +1,8 @@
 git log  -1 [last 1 commit ]
 git log  -2  [last 2 commit ]
 
+git  log  --oneline  [ commit  id  with its message]
+
+
+
 new  update  will  come   up to up
