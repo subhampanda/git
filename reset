@@ -1,1 +1,7 @@
+vi  subh.html
+subham panda
 
+git  add .
+git  reset  [from  green to  red]
+
+git  reset  --hard  [from  green and  red    to  head]
