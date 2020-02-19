@@ -1,0 +1,9 @@
+echo "# subhproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/subhampanda/subhproject.git
+
+orgin   - https://github.com/subhampanda/subhproject.git [origin is  used  substitute of  this url ]
+
+git push -u origin master  [mastr -  for  baranch name ,  orgin - url]
