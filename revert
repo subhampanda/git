@@ -1,0 +1,8 @@
+vi  subham
+subham panda
+
+git add .
+git  commit  -m "subham panda"
+
+git  revert  commitid
+
