@@ -3,6 +3,12 @@ git log  -2  [last 2 commit ]
 
 git  log  --oneline  [ commit  id  with its message]
 
+git  branch  new-branch
+git  checkout  new-branch
+
+git  branch  [to checkout  the branch]
+
+
 
 
 new  update  will  come   up to up
